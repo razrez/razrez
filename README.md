@@ -1,5 +1,5 @@
 
-[![](./img/telegram.png)](https://t.me/razrezglaza) 
+[![](./img/telegram.png)](https://t.me/razrezglaz) 
 <!--
 **razrez/razrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
