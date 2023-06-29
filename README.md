@@ -1,5 +1,4 @@
-
-[![](./img/telegram-ic.png)](https://t.me/razrezglaz) 
+# 📫 How to reach me: [![](./img/telegram-ic.png)](https://t.me/razrezglaz) 
 <!--
 **razrez/razrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![FullSizeRender](https://github.com/razrez/razrez/assets/70781439/4220257f-c10c-4729-b2ad-4d4395fd1a89)
