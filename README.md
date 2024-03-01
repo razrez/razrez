@@ -1,4 +1,4 @@
-# How to reach me: [![](./img/tg.png)](https://t.me/razrezglaz) 
+# How to reach me: [![](./img/tg.png)](https://t.me/razrezglaza) 
 
 <!--
 **razrez/razrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
